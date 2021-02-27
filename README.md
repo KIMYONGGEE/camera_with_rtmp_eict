@@ -1,4 +1,4 @@
-# RealTime Camera RTMP with IOS/ Android(스트리밍 애플리케이션)
+# RealTime Camera RTMP with IOS/ Android
 **[OverView]**
 
 RTMP 스트리밍 및 카메라 플러그인을 활용하여 IOS/Android 크로스 플랫폼 애플리케이션 구현 
@@ -21,8 +21,3 @@ RTMP 스트리밍 기능을 사용하기위해 플러터 카메라 플러그인 
 * 해당 디바이스 내부 CRUD REST api를 써서 캡쳐 화면이 저장됩니다. 
 * 위 api를 사용하여 녹화저장이 가능합니다.
 
-
-## Features  / 이 api의 특징
-* 출될 화면을 위젯을 통해 확인가능합니다.
-* 해당 디바이스 내부 CRUD REST api를 써서 캡쳐 화면이 저장됩니다. 
-* 위 api를 사용하여 녹화저장이 가능합니다.
