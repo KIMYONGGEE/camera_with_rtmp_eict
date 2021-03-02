@@ -26,6 +26,8 @@ dependencies:
   camera: ^0.6.3+2 #카메라 패키지
   path_provider: ^1.6.24 #지역 파일시스템 패키지
   wakelock: ^0.2.1+1 #스크린 계속 안꺼지게 유지 패키지
+  uuid: 2.2.2 #UUID 생성 패키지 
+  
   flutter:
     sdk: flutter
 
