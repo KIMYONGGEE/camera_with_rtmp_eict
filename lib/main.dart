@@ -498,7 +498,9 @@ class _CameraExampleHomeState extends State<CameraExampleHome>
     // Open up a dialog for the url
     userUuid = uuid.v4(); // 4버전으로 랜덤하게 추출
     String result = _textFieldController.text + userUuid;
-    print(result); // uuid추출
+    //기존 서버 주소뒤에 uuid 추가한 STring
+
+    print(result);
     return await showDialog(
         context: context,
         builder: (context) {
