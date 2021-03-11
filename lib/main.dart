@@ -1,4 +1,3 @@
-//Camera_with_rtmp package example
 import 'dart:async';
 import 'dart:io';
 
@@ -499,7 +498,6 @@ class _CameraExampleHomeState extends State<CameraExampleHome>
     userUuid = uuid.v4(); // 4버전으로 랜덤하게 추출
     String result = _textFieldController.text + userUuid;
     //기존 서버 주소뒤에 uuid 추가한 STring
-
     print(result);
     return await showDialog(
         context: context,
